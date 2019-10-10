@@ -1,0 +1,34 @@
+{
+  "name": "jamstack-trees",
+  "private": true,
+  "description": "Project showing the JAMstack Principle with the Beauty of Trees :evergreen_tree:",
+  "version": "0.1.0",
+  "author": "Kristin Baumann (www.kristin-baumann.com)",
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^13.2.0",
+    "gatsby": "^2.8.2",
+    "gatsby-cli": "^2.7.58",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-stripe": "^1.2.1",
+    "gatsby-source-contentful": "^2.0.67",
+    "gatsby-source-stripe": "^2.2.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristinbaumann/jamstack-trees"
+  }
+}
