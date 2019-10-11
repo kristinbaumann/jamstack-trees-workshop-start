@@ -6,8 +6,6 @@
 
 This project exemplarily shows the principle of the JAMstack with the beauty of trees :evergreen_tree: :deciduous_tree: :palm_tree:
 
-See Live Version: https://jamstack-trees.netlify.com/
-
 Definition of **JAMstack**:
 
 > _"Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup."
@@ -17,9 +15,7 @@ It is a small site combining content handling (statically rendered and served) a
 
 So you can manage and update static content (here awesome tree images) with Contentful, see the result here: https://jamstack-trees.netlify.com/explore.
 
-You can also (fake) plant a tree by doing a payment via Stripe, see the dynamic ecommerce section here: https://jamstack-trees.netlify.com/plant.
-
-Used tools and services: Github, Gatsby, React, Contentful, GraphQL, Stripe, Netlify ...
+Used tools and services: Github, Gatsby, React, Contentful, GraphQL, ...
 
 ## Setup
 
