@@ -1,7 +1,10 @@
 /* General */
 body {
-  color: white;
   font-family: "Raleway", sans-serif;
+}
+
+.layout-wrapper {
+  color: white;
 }
 
 .container {
@@ -240,5 +243,10 @@ a.back-link {
   box-shadow: 0px 1px 4px 4px rgba(0, 0, 0, 0.08);
 }
 .footer-wrapper a {
+  color: #333;
+}
+
+/* For Workshop Demonstration */
+h6 {
   color: #333;
 }
