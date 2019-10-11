@@ -1,8 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/55a26679-f7fc-4451-be23-df40e7907f74/deploy-status)](https://app.netlify.com/sites/jamstack-trees/deploys)
-
 # JAMstack Trees :evergreen_tree: - Workshop Start
 
-![Screenshot](https://raw.githubusercontent.com/kristinbaumann/jamstack-trees/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/kristinbaumann/jamstack-trees-workshop-start/master/screenshot_start.png)
 
 ## Why and What?
 
