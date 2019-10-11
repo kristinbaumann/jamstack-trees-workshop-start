@@ -1,7 +1,7 @@
 {
-  "name": "jamstack-trees",
+  "name": "jamstack-trees-workshop-start",
   "private": true,
-  "description": "Project showing the JAMstack Principle with the Beauty of Trees :evergreen_tree:",
+  "description": "Project showing the JAMstack Principle with the Beauty of Trees :evergreen_tree: - Workshop Start",
   "version": "0.1.0",
   "author": "Kristin Baumann (www.kristin-baumann.com)",
   "dependencies": {
